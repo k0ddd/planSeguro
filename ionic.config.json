@@ -1,0 +1,7 @@
+{
+  "name": "planSeguro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
